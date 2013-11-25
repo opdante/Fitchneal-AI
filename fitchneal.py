@@ -159,7 +159,6 @@ def run(attacker_engine, defender_engine, results_file_path):
 if __name__ == '__main__':
     print "---------------------"
     print "Fitchneal Driver"
-    print "Joshua Bonner (2009)"
     print "---------------------"
     # check syntax of command line
     if len(sys.argv) != 4:
